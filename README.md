@@ -1,4 +1,4 @@
-# Kullan-c-Girisi
+# KullaniciGirisi
 ### Java-101 Kullanıcı Girişi Dersi
 (www.patika.dev)
 
